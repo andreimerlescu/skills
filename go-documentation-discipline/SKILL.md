@@ -14,6 +14,8 @@ metadata:
   priority: "mandatory"
 ---
 
+![Unique](https://counthis.app/github?repository=andreimerlescu/skills&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+
 # Go Documentation Discipline
 
 **Audience:** DeepSeek V4 (local coding agent), code-review subagents, and implementation agents.
