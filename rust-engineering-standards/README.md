@@ -1,4 +1,6 @@
-# Rust Engineering Standards — DeepSeek v4 Agent Skill
+# Rust Engineering Standards — Agent Skill
+
+![Unique](https://counthis.app/github?repository=andreimerlescu/skills&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
 
 A portable Agent Skills package for enforceable, senior-level Rust engineering.
 
