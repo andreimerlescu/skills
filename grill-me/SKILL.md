@@ -5,6 +5,8 @@ metadata:
   version: "1.0.0"
 ---
 
+![Unique](https://counthis.app/github?repository=andreimerlescu/skills&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+
 # grill-me — requirements interrogation and AGENTS.md convergence
 
 ## Mission
