@@ -3,6 +3,8 @@ name: secure-code-standards
 description: Mandatory security-conscious engineering for every task that writes, edits, reviews, configures, builds, packages or ships code, scripts, Dockerfiles, CI, config or docs, and especially any task where the agent is handed, discovers or reads a credential, API key, token, password, private key, certificate, connection string, sample .env, or personal data. Forces the agent to classify sensitive material before touching it, keep secrets out of source, binaries, flag defaults, embeds, logs, tests, commits and chat, and to prove it with a scan. Language-agnostic with Go-specific rules; pairs with go-engineering-standards.
 ---
 
+![Unique](https://counthis.app/github?repository=andreimerlescu/skills&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+
 # Secure Code Standards (core)
 
 **Version** 1.0 · 2026-10-26 · Language-agnostic; Go specifics in `references/go-secrets.md`.
