@@ -1,5 +1,7 @@
 # secure-code-standards — operator notes
 
+![Unique](https://counthis.app/github?repository=andreimerlescu/skills&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+
 This README is for the humans who install and run the skill. The model reads `SKILL.md`; it does not need this file.
 
 ## What it fixes
