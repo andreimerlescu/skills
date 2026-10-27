@@ -14,6 +14,8 @@ metadata:
   policy-date: '2026-10-19'
 ---
 
+![Unique](https://counthis.app/github?repository=andreimerlescu/skills&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+
 # Rust Engineering Standards — Mandatory Agent Skill
 
 **ACTIVATE FOR EVERY RUST TASK.** This includes `.rs`, `Cargo.toml`, `build.rs`, `rust-toolchain.toml`, tests, architecture, FFI, macros, refactoring, reviews, releases and Rust-bearing deployment code. It applies equally to solo work and multi-agent projects.
