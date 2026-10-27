@@ -3,6 +3,8 @@ name: security-posture
 description: Senior-level secrets handling for software that consumes or manages secrets in 1Password, Keeper, Bitwarden Secrets Manager, AWS Secrets Manager, OCI Vault, GCP Secret Manager, Azure Key Vault, HashiCorp Vault, Infisical, Doppler, or Akeyless. Use when writing, reviewing, testing, or operating code, CI/CD, or infrastructure that creates, reads, updates, deletes, rotates, injects, or logs around secrets, in Go, Rust, PHP, C#, Java, Swift, Python, TypeScript, C++, or C.
 ---
 
+![Unique](https://counthis.app/github?repository=andreimerlescu/skills&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+
 # Security posture for secrets consumers
 
 ## Objective
