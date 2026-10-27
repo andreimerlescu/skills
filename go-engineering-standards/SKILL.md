@@ -8,6 +8,8 @@ description: >-
   1.27.1+ compatibility. Tuned for local agents such as DeepSeek V4.
 ---
 
+![Unique](https://counthis.app/github?repository=andreimerlescu/skills&label=Unique) ![Visitors](https://counthis.app/g/qyjy5vwjtjgbjfzy)
+
 # Go Engineering Standards (core)
 
 **Version** 2.0 · 2026-10-20 · **Go floor** `go 1.27.1` · **Build with** latest patched release (1.27.2 at time of writing).
