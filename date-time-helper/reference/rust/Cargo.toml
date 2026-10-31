@@ -1,0 +1,17 @@
+[package]
+name = "datecal"
+version = "1.0.0"
+edition = "2021"
+description = "Verified date recipes (chrono) and calendar conversions (Julian, Hebrew, Hijri, Chinese)"
+license = "MIT"
+
+[dependencies]
+chrono = { version = "0.4.38", default-features = false, features = ["std", "clock"] }
+# Optional cross-check against ICU4X (the Unicode reference implementation).
+icu_calendar = { version = "2", optional = true }
+
+[features]
+icu = ["dep:icu_calendar"]
+
+[dev-dependencies]
+chrono-tz = "0.10"
